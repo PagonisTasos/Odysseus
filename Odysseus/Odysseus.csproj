@@ -59,6 +59,7 @@
     <Compile Include="System.String\String.ToEnum.cs" />
     <Compile Include="System.String\String.ToLower.cs" />
     <Compile Include="System.String\String.ToDateTimeOrNull.cs" />
+    <Compile Include="System.String\String.ToSha1Hash.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
