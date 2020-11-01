@@ -13,6 +13,6 @@ public static partial class Extensions
     /// <returns>true if empty, false if not.</returns>
     public static bool IsEmpty<T>(this IEnumerable<T> @this)
     {
-        return !@this.Any();
+        return @this == null || !@this.Any();
     }
 }
