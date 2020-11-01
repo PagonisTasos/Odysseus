@@ -56,6 +56,7 @@
     <Compile Include="System.String\String.RemoveDiacritics.cs" />
     <Compile Include="System.String\String.ToEnum.cs" />
     <Compile Include="System.String\String.ToLower.cs" />
+    <Compile Include="System.String\String.ToDateTimeOrNull.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
