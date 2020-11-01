@@ -4,10 +4,10 @@ using System.Text;
 public static partial class Extensions
 {
     /// <summary>
-    ///     A string extension method that removes the diacritics character from strings.
+    ///     A string extension method that removes the diacritics characters from strings.
     /// </summary>
     /// <param name="this">The @this to act on.</param>
-    /// <returns>The string without diacritics character.</returns>
+    /// <returns>The string without diacritics.</returns>
     public static string RemoveDiacritics(this string @this)
     {
         string normalizedString = @this.Normalize(NormalizationForm.FormD);
