@@ -30,8 +30,8 @@ public static partial class Extensions
                                       format,
                                       CultureInfo.InvariantCulture,
                                       DateTimeStyles.None,
-                                      out DateTime date) 
-            ? (DateTime?)date 
+                                      out DateTime date)
+            ? (DateTime?)date
             : null;
     }
 }

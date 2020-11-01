@@ -13,7 +13,7 @@ public static partial class Extensions
     {
         using (var sha1 = new SHA1Managed())
         {
-            var hash = sha1.ComputeHash(Encoding.UTF8.GetBytes(@this)); 
+            var hash = sha1.ComputeHash(Encoding.UTF8.GetBytes(@this));
             return string.Concat(hash.Select(b => b.ToString("x2")));
         }
 
