@@ -54,6 +54,7 @@
     <Compile Include="System.String\String.NullIfEmpty.cs" />
     <Compile Include="System.String\String.ParseJsonAs.cs" />
     <Compile Include="System.String\String.RemoveDiacritics.cs" />
+    <Compile Include="System.String\String.ToEnum.cs" />
     <Compile Include="System.String\String.ToLower.cs" />
   </ItemGroup>
   <ItemGroup>
