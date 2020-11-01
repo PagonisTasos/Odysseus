@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="System.Object\Object.ToJson.cs" />
+    <Compile Include="System.String\String.NullIfEmpty.cs" />
     <Compile Include="System.String\String.ParseJsonAs.cs" />
     <Compile Include="System.String\String.RemoveDiacritics.cs" />
     <Compile Include="System.String\String.ToLower.cs" />
