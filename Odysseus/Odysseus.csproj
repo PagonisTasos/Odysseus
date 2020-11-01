@@ -48,6 +48,7 @@
     <Compile Include="System.Object\Object.ToJson.cs" />
     <Compile Include="System.String\ParseJsonAs.cs" />
     <Compile Include="System.String\String.RemoveDiacritics.cs" />
+    <Compile Include="System.String\String.ToLower.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
