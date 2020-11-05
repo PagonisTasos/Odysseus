@@ -55,6 +55,7 @@
     <Compile Include="System.DateTime\DateTime.IsPast.cs" />
     <Compile Include="System.DateTime\DateTime.ToAge.cs" />
     <Compile Include="System.Decimal\Decimal.ToMoney.cs" />
+    <Compile Include="System.Object\Object.In.cs" />
     <Compile Include="System.Object\Object.ToJson.cs" />
     <Compile Include="System.String\String.DecodeBase64.cs" />
     <Compile Include="System.String\String.EmptyIfNull.cs" />
