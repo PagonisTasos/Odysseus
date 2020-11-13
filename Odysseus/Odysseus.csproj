@@ -62,6 +62,7 @@
     <Compile Include="System.String\String.DecodeBase64.cs" />
     <Compile Include="System.String\String.EmptyIfNull.cs" />
     <Compile Include="System.String\String.EncodeBase64.cs" />
+    <Compile Include="System.String\String.GreekToEngChars.cs" />
     <Compile Include="System.String\String.IsNullOrEmpty.cs" />
     <Compile Include="System.String\String.NullIfEmpty.cs" />
     <Compile Include="System.String\String.ParseJsonAs.cs" />
