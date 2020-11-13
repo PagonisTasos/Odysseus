@@ -50,6 +50,7 @@
     <Compile Include="System.Collections.Generic.IEnumerable[T]\IEnumerable[T].EmptyIfNull.cs" />
     <Compile Include="System.Collections.Generic.IEnumerable[T]\IEnumerable[T].IsEmpty.cs" />
     <Compile Include="System.Collections.Generic.IEnumerable[T]\IEnumerable[T].StringJoin.cs" />
+    <Compile Include="System.DateTime\DataTime.IsDefault.cs" />
     <Compile Include="System.DateTime\DateTime.IsBetween.cs" />
     <Compile Include="System.DateTime\DateTime.IsFuture.cs" />
     <Compile Include="System.DateTime\DateTime.IsPast.cs" />
