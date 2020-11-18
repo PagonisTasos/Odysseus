@@ -96,6 +96,8 @@
     <Compile Include="System.String\String.ToSha1Hash.cs" />
     <Compile Include="System.Web.Mvc.ControllerContext\ControllerContext.ActionResultToString.cs" />
     <Compile Include="System.Web.Mvc.ControllerContext\ControllerContext.RenderViewToString.cs" />
+    <Compile Include="System.Web.Mvc.HtmlHelper\HtmlHelper.VersionedAssets.cs" />
+    <Compile Include="System.Web.Mvc.UrlHelper\UrlHelper.VersionedContent.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
